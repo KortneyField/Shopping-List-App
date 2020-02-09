@@ -1,2 +1,2 @@
 # ToDoApp
-A To Do App Project
+My first coding Project. A shopping List App
